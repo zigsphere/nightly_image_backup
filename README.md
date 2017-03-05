@@ -5,4 +5,4 @@ I use the "motion" software on my Raspberry PI that collects hundreds to thousan
 
 To run the script automatically, use a cron job to run at a specific time you wish.
 
-Make sure you replace "<insert your Google Drive directory id here>" with your Google Drive id number. You can find this number by installing the gdrive app and running the necessary commands to find it.
+Make sure you replace "insert your Google Drive directory id here" with your Google Drive id number. You can find this number by installing the gdrive app and running the necessary commands to find it.
